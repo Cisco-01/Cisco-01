@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Giovanni Castañeda
 
-![I am a Software and Web Developer](https://wallpaperaccess.com/full/3949097.jpg)
+![I am a Software and Web Developer](https://www.aetipsandtricks.com/wp-content/uploads/2017/11/newtrin.jpg)
 
 ## About me
 Based in Lima, Peru. Software Engineering student. Code, video games, food and music lover.
@@ -12,14 +12,9 @@ Based in Lima, Peru. Software Engineering student. Code, video games, food and m
 - 🕸 Interests: Web and Software Development 💻, Cybersecurity 😎, Video Games 🎮, Music 🎶.
 
 ### Connect with me 🌎
-
-:email: How to reach me:
-<a href='mailto:giovcasle@gmail.com'>giovcasle@gmail.com</a>
-</br>
-[![website](https://img.shields.io/badge/web-7C27CC?style=for-the-badge&logo=Web&logoColor=white&labelColor=101010)][website]
-<br />
+[![email](https://img.shields.io/badge/Email-7FG7CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)][email]
+[![website](https://img.shields.io/badge/web-7C27CC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)][website]
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)][linkedin]
-<br />
 [![instagram](https://img.shields.io/badge/instagram-D55F49?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)][instagram]
 <br />
 
@@ -39,20 +34,24 @@ Based in Lima, Peru. Software Engineering student. Code, video games, food and m
 [<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][github]
 [<img align="left" alt="Git" width="30px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />][github]
 [<img align="left" alt="Git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />][github]
+[<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][github]
 <br />
 <br />
 
 ---
-
+## Stats
 <center>
   <table>
   <tr>
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&theme=gotham"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&theme=gotham&show_icons=true" /></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&layout=compact&theme=gotham&langs_count=10" /></td>
-  </tr>   
+  </tr>
   </table>
+  <img src="https://badges.pufler.dev/visits/Cisco-01/Cisco-01">
 </center>
 
+[email]:mailto:giovcasle@gmail.com
 [website]: https://badass-dev-portfolio.netlify.app/
 [instagram]: https://www.instagram.com/lafleim98
 [linkedin]: https://www.linkedin.com/in/giovcasle/
