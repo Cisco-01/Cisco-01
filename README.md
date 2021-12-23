@@ -1,22 +1,26 @@
-### Hi there 👋, I'm Giovanni Castañeda
+### 👋 Hi there, I'm Giovanni Castañeda
 
 ![I am a Software and Web Developer](https://wallpaperaccess.com/full/3949097.jpg)
 
+## About me
 Based in Lima, Peru. Software Engineering student. Code, video games, food and music lover.
 
 #### I am a Self-taught Web Developer and I always aspire to learn
 
 - 🔭 Open for Job Opportunities. 
-- 🌱 I’m currently building NodeJs x ReactJs projects.
+- 🌱 I’m currently building NodeJs x ReactJs projects
 - 🕸 Interests: Web and Software Development 💻, Cybersecurity 😎, Video Games 🎮, Music 🎶.
 
 ### Connect with me 🌎
 
-[<img align="left" alt="Ken White | Website" width="22px" src="https://user-images.githubusercontent.com/68158625/111181942-83b72e00-85bf-11eb-9955-42e6d166bd81.png" />][website]
-[<img align="left" alt="ken-white | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/68158625/111182101-a47f8380-85bf-11eb-88f7-8671dcd71331.png" />][linkedin]
-[<img align="left" alt="__whitish__ | Instagram" width="22px" src="https://user-images.githubusercontent.com/68158625/111182157-b19c7280-85bf-11eb-8f51-749e9cb1b8b1.png" />][instagram]
-
+:email: How to reach me:
+<a href='mailto:giovcasle@gmail.com'>giovcasle@gmail.com</a>
+</br>
+[![website](https://img.shields.io/badge/web-7C27CC?style=for-the-badge&logo=Web&logoColor=white&labelColor=101010)][website]
 <br />
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)][linkedin]
+<br />
+[![instagram](https://img.shields.io/badge/instagram-D55F49?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)][instagram]
 <br />
 
 ---
