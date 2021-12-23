@@ -13,7 +13,7 @@ Based in Lima, Peru. Software Engineering student. Code, video games, food and m
 
 ### Connect with me 🌎
 [![email](https://img.shields.io/badge/Email-7FG7CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)][email]
-[![website](https://img.shields.io/badge/web-7C27CC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)][website]
+[![website](https://img.shields.io/badge/BadA$$--Dev-7C27CC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)][website]
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)][linkedin]
 [![instagram](https://img.shields.io/badge/instagram-D55F49?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)][instagram]
 <br />
@@ -39,13 +39,14 @@ Based in Lima, Peru. Software Engineering student. Code, video games, food and m
 <br />
 
 ---
+
 ## Stats
 <center>
   <table>
   <tr>
-      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&theme=gotham"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&theme=gotham&show_icons=true" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&layout=compact&theme=gotham&langs_count=10" /></td>
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&theme=blue-green"/></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&theme=blue-green&show_icons=true" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&layout=compact&theme=blue-green&langs_count=10" /></td>
   </tr>
   </table>
   <img src="https://badges.pufler.dev/visits/Cisco-01/Cisco-01">
