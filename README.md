@@ -37,7 +37,7 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 ---
 ## Stats
 <center>
-  <a href="https://github.com/Cisco-01/github-readme-activity-graph"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true" /></a>
+  <a href="https://github.com/Cisco-01/github-readme-activity-graph"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true&hide_title=true&area=true&area_color=FEFEFE" /></a>
   <table>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&hide_border=true&theme=github-dark"/></td>
