@@ -30,18 +30,19 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 [<img align="left" alt="Git" width="30px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />][github]
 [<img align="left" alt="Git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />][github]
 [<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][github]
+[<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][github]
 <br />
 <br />
 
 ---
 ## Stats
 <center>
-  <a href="https://github.com/Cisco-01/github-readme-activity-graph"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&theme=chartreuse-dark" /></a>
+  <a href="https://github.com/Cisco-01/github-readme-activity-graph"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true" /></a>
   <table>
   <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&theme=merko"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&theme=merko&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&theme=merko&langs_count=10"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&hide_border=true&theme=github-dark"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&hide_border=true&bg_color=0D1117&text_color=38D252&title_color=FEFEFE&icon_color=f5b700&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&langs_count=10"></td>
   </tr>
   </table>
   <a href="https://github.com/Cisco-01?tab=followers">
@@ -53,8 +54,8 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 
 ---
 ## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=particles.js&theme=chartreuse-dark&show_owner=true)](https://github.com/Cisco-01/particles.js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=public-apis&theme=chartreuse-dark&show_owner=true)](https://github.com/Cisco-01/public-apis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=particles.js&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/particles.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=public-apis&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/public-apis)
 
 ---
 [email]:mailto:giovcasle@gmail.com
