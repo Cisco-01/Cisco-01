@@ -1,7 +1,7 @@
 ![I am a Software and Web Developer](https://www.aetipsandtricks.com/wp-content/uploads/2017/11/newtrin.jpg)
 
 ## About
-#### Software Engineering student & Self-taught Web Developer. Always aspiring to learn...
+_**Software Engineering** student & Self-taught **Web Developer**. Always **aspiring to learn**..._
 
 - 🔭 Open for Job Opportunities. 
 - 🌱 I’m currently building NodeJs x ReactJs projects
@@ -36,19 +36,25 @@
 ---
 ## Stats
 <center>
+  <a href="https://github.com/Cisco-01/github-readme-activity-graph"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&theme=chartreuse-dark" /></a>
   <table>
   <tr>
-      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&theme=chartreuse-dark"/></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&theme=chartreuse-dark&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&theme=merko"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&theme=merko&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&theme=merko&langs_count=10"></td>
   </tr>
   </table>
-  <img src="https://badges.pufler.dev/visits/Cisco-01/Cisco-01">
+  <a href="https://github.com/Cisco-01?tab=followers">
+    <img src="https://badges.pufler.dev/visits/Cisco-01/Cisco-01">
+    <img src="https://img.shields.io/github/followers/Cisco-01?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+
 </center>
 
 ---
 ## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=particles.js&theme=highcontrast&show_owner=true)](https://github.com/Cisco-01/particles.js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=public-apis&theme=highcontrast&show_owner=true)](https://github.com/Cisco-01/public-apis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=particles.js&theme=chartreuse-dark&show_owner=true)](https://github.com/Cisco-01/particles.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=public-apis&theme=chartreuse-dark&show_owner=true)](https://github.com/Cisco-01/public-apis)
 
 ---
 [email]:mailto:giovcasle@gmail.com
