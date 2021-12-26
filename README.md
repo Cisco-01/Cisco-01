@@ -19,6 +19,7 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][github]
+[<img align="left" alt="Sass" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />][github]
 [<img align="left" alt="CSS3" width="35px" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][github]
 [<img align="left" alt="Angular" width="35px" height="35px" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" />][github]
 [<img align="left" alt="JavaScript" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
@@ -64,6 +65,7 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 
 ---
 ## Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=underpage&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/underpage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=particles.js&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/particles.js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=public-apis&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/public-apis)
 
