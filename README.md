@@ -26,6 +26,7 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 [<img align="left" alt="React" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 [<img align="left" alt="Node.js" width="35px" height="35px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />][github]
 [<img align="left" alt="Git" width="35px" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][github]
+[<img align="left" alt="Ruby" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />][github]
 [<img align="left" alt="Python" width="35px" height="35px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />][github]
 [<img align="left" alt="C#" width="35px" height="35px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />][github]
 [<img align="left" alt="Typescript" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
