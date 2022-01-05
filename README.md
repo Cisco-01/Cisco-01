@@ -14,8 +14,6 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 [![instagram](https://img.shields.io/badge/instagram-D55F49?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)][instagram]
 <br />
 <br />
-<br />
-<br />
 
 ---
 ### Languages and Tools:
