@@ -1,5 +1,3 @@
-![img](https://www.aetipsandtricks.com/wp-content/uploads/2017/11/newtrin.jpg)
-
 ## About
 _**Software Engineering** student & Self-taught **Web Developer**. Always **aspiring to learn**..._
 
