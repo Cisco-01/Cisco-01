@@ -18,7 +18,7 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 [<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][github]
 [<img align="left" alt="Sass" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />][github]
-[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://es.wikipedia.org/wiki/Archivo:Tailwind_CSS_Logo.svg" />][github]
+[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />][github]
 [<img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][github]
 [<img align="left" alt="Angular" width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" />][github]
 [<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
