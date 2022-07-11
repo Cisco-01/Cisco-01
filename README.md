@@ -18,6 +18,7 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
 [<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][github]
 [<img align="left" alt="Sass" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />][github]
+[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />][github]
 [<img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][github]
 [<img align="left" alt="Angular" width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" />][github]
 [<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
@@ -54,10 +55,10 @@ _**Software Engineering** student & Self-taught **Web Developer**. Always **aspi
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cisco-01&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&langs_count=10"></td>
   </tr>
   </table>
-  <a href="https://github.com/Cisco-01?tab=followers">
+  <!-- <a href="https://github.com/Cisco-01?tab=followers">
     <img src="https://badges.pufler.dev/visits/Cisco-01/Cisco-01">
     <img src="https://img.shields.io/github/followers/Cisco-01?label=Followers&style=social" alt="GitHub Badge">
-  </a>
+  </a> -->
 
 </center>
 <br />
