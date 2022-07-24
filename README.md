@@ -1,6 +1,3 @@
-## About
-_**Software Engineering** student & Self-taught **Web Developer**. Always **aspiring to learn**..._
-
 - 🔭 Open for Job Opportunities. 
 - 🌱 I’m currently building NodeJs x ReactJs projects
 - 💎 Interests: Web and Software Development 🖥️, Cybersecurity 🔐, Video Games 🎮 and  Music 🎶.
