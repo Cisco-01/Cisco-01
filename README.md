@@ -69,7 +69,7 @@
 
 ---
 [email]:mailto:giovcasle@gmail.com
-[website]: https://badass-dev-portfolio.netlify.app/
+[website]: https://cgcl-portfolio.web.app/
 [instagram]: https://www.instagram.com/lafleim98
 [linkedin]: https://www.linkedin.com/in/giovcasle/
 [github]: https://github.com/Cisco-01
