@@ -3,9 +3,9 @@
 - 💎 Interests: Software & Web Development 🖥️, Cybersecurity 🔐, Video Games 🎮 and  Music 🎶.
 
 ### Connect 🌎
-[![email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&labelColor=black)][email]
-[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firebase&labelColor=black)][website]
-[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black)][linkedin]
+[![email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)][email]
+[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black)][website]
+[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)][linkedin]
 [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)][instagram]
 <br />
 <br />
