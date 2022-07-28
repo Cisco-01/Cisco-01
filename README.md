@@ -1,8 +1,8 @@
 - 🔭 Open for Job Opportunities. 
-- 🌱 I’m currently building NodeJs x ReactJs projects
-- 💎 Interests: Web and Software Development 🖥️, Cybersecurity 🔐, Video Games 🎮 and  Music 🎶.
+- 🌱 I’m currently building ReactJs projects
+- 💎 Interests: Software & Web Development 🖥️, Cybersecurity 🔐, Video Games 🎮 and  Music 🎶.
 
-### Connect with me 🌎
+### Connect 🌎
 [![email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&labelColor=black)][email]
 [![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firebase&labelColor=black)][website]
 [![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black)][linkedin]
@@ -11,7 +11,7 @@
 <br />
 
 ---
-### Technologies:
+### Technologies 🛠
 [<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 [<img align="left" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][github]
 [<img align="left" alt="Node.js" width="40px" height="40px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />][github]
@@ -29,7 +29,7 @@
 <br />
 
 ---
-## Stats
+## Stats 📈
 <center>
   <a href="https://github.com/Cisco-01/github-readme-activity-graph"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true&hide_title=true&area=true&area_color=FEFEFE" /></a>
   <table>
@@ -48,7 +48,7 @@
 <br />
 
 ---
-## Repos
+## Repos 🗃
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=.vscodeSettings-in-JSON-format&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/.vscodeSettings-in-JSON-format)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=public-apis&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/public-apis)
