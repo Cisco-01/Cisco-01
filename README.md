@@ -11,22 +11,18 @@
 <br />
 
 ---
-### Programming Languages, Technologies & Tools:
-[<img align="left" alt="Python" width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />][github]
-[<img align="left" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][github]
-[<img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][github]
-[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />][github]
-[<img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][github]
-[<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+### Technologies:
 [<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][github]
 [<img align="left" alt="Node.js" width="40px" height="40px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />][github]
-[<img align="left" alt="C#" width="40px" height="40px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />][github]
-[<img align="left" alt="Typescript" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
-[<img align="left" alt="Java" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][github]
-[<img align="left" alt="mysql" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][github]
+[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />][github]
 [<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][github]
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) -->
+[<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="Python" width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />][github]
+[<img align="left" alt="Typescript" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][github]
+[<img align="left" alt="mysql" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][github]
+[<img align="left" alt="C#" width="40px" height="40px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />][github]
+[<img align="left" alt="Java" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][github]
 <br />
 <br />
 <br />
