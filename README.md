@@ -37,7 +37,7 @@ Software developer by day, jack of all trades by night.
 ---
 ## Stats 📈
 <center>
-  <a href="https://github.com/Cisco-01/github-readme-activity-graph" target="_blank" rel="noopener noreferrer"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true&hide_title=true&area=true&area_color=FEFEFE" /></a>
+  <!--a href="https://github.com/Cisco-01/github-readme-activity-graph" target="_blank" rel="noopener noreferrer"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true&hide_title=true&area=true&area_color=FEFEFE" /></a-->
   <table>
   <tr>
     <td>
