@@ -43,9 +43,9 @@ Software developer by day, jack of all trades by night.
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cisco-01&hide_border=true&theme=github-dark"/>
     </td>
-    <td>
+    <!--<td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cisco-01&count_private=true&hide_border=true&bg_color=0D1117&text_color=38D252&title_color=FEFEFE&icon_color=f5b700&show_icons=true" />
-    </td>
+    </td>-->
     <!--<td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cisco-01&show_icons=true&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&langs_count=10&locale=en&layout=compact" alt="Cisco-01" />       </td>-->
   </tr>
@@ -57,7 +57,7 @@ Software developer by day, jack of all trades by night.
 
 </center>
 <br />
-
+<!--
 ---
 ## Repos 🗃
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=Design-Store-eCommerce&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/Design-Store-eCommerce)
@@ -65,7 +65,7 @@ Software developer by day, jack of all trades by night.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cisco-01&repo=.vscodeSettings-in-JSON-format&hide_border=true&bg_color=0D1117&text_color=38D252&icon_color=f5b700&title_color=FEFEFE&show_owner=true)](https://github.com/Cisco-01/.vscodeSettings-in-JSON-format)
 
 ---
-
+-->
 [email]:mailto:giovcasle@gmail.com
 [website]: https://cgcl-portfolio.web.app/
 [linkedin]: https://www.linkedin.com/in/giovcasle/
