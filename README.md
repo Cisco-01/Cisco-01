@@ -1,9 +1,9 @@
 Software developer by day, jack of all trades by night.
 
 ### Connect 🌎
-[![email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)][email]
-[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black)][website]
-[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)][linkedin]
+[![email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)]
+[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black)]
+[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)]
 <br />
 <br />
 
