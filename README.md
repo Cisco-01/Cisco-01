@@ -9,16 +9,16 @@ Software developer by day, jack of all trades by night.
 
 ---
 ### Technologies 🛠
-<img align="left" alt="Python" width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />
-<img align="left" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Java" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px" height="40px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />
-<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
-<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="mysql" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="C#" width="40px" height="40px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+[<img align="left" alt="Python" width="40px" height="40px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />](https://github.com/Cisco-01)
+[<img align="left" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/Cisco-01)
+[<img align="left" alt="Java" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://github.com/Cisco-01)
+[<img align="left" alt="React" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/Cisco-01)
+[<img align="left" alt="Node.js" width="40px" height="40px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />](https://github.com/Cisco-01)
+[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />](https://github.com/Cisco-01)
+[<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />](https://github.com/Cisco-01)
+[<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/Cisco-01)
+[<img align="left" alt="mysql" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://github.com/Cisco-01)
+[<img align="left" alt="C#" width="40px" height="40px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />](https://github.com/Cisco-01)
 
 <br />
 <br />
