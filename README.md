@@ -2,7 +2,7 @@ Software developer by day, jack of all trades by night.
 
 ### Connect 🌎
 [![email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:giovcasle@gmail.com)
-[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black)](https://cgcl-portfolio.web.app/)
+[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black)](https://giovcasle.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/giovcasle/)
 <br />
 <br />
