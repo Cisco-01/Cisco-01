@@ -19,13 +19,15 @@ Software developer by day, jack of all trades by night.
 [<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/Cisco-01)
 [<img align="left" alt="mysql" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://github.com/Cisco-01)
 [<img align="left" alt="C#" width="40px" height="40px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />](https://github.com/Cisco-01)
-
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
 
+---
 ### Projects
-
 | underPage | Geek Designs | Flexbox Layout |
 |:------:|:---------:|:----------------------:|
 | ![underpage](https://i.imgur.com/rAKhrkp.png) | ![geekdesigns](https://i.imgur.com/B3NLUGk.png) | ![huluclone](https://i.imgur.com/MEvDpwi.png) |
