@@ -23,9 +23,7 @@ Software developer by day, jack of all trades by night.
 <br />
 <br />
 <br />
-<br />
-<br />
-
+<!--
 ---
 ### Projects
 | underPage | Geek Designs | Estacion88 |
@@ -35,7 +33,7 @@ Software developer by day, jack of all trades by night.
 | <a href="https://underpage-raversound.web.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-DC2626"></a> | <a href="https://github.com/Cisco-01/Design-Store-eCommerce"><img src="https://img.shields.io/badge/🔮 Repo-84CC16"></a> <a href="https://giovanni-designs.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-1C1917"></a> | <a href="https://estacion88.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-06202A"></a> |
 
 <br />
-
+-->
 ---
 ## Stats 📈
 <center>
