@@ -1,40 +1,19 @@
 <b>Software developer by day, jack of all trades by night.</b>
 
+[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white&labelColor=black)](https://giovcasle.vercel.app/)
+<br />
+
+---
 ### Let's talk 👋🏻
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:giovcasle@gmail.com)
-[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black)](https://giovcasle.vercel.app/)
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/giovcasle/)
 <br />
-<br />
-
----
-### Skills 🛠
-
-
-[<img align="left" alt="Node.js" width="40px" height="40px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />](https://github.com/Cisco-01)
-[<img align="left" alt="Tailwind CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />](https://github.com/Cisco-01)
-[<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />](https://github.com/Cisco-01)
-[<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/Cisco-01)
-[<img align="left" alt="mysql" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://github.com/Cisco-01)
-[<img align="left" alt="C#" width="40px" height="40px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />](https://github.com/Cisco-01)
-
+### Skills & Tools 🛠
 <p align="center">
   <a href="https://github.com/Cisco-01">
-    <img src="https://skillicons.dev/icons?i=py,kubernetes,tailwind,ts,nestjs,sklearn,c,mysql,threejs,sass,redux,react,r,prisma,postgres,opencv,nodejs,java,html,graphql,css,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,sklearn,mysql,threejs,redux,react,styledcomponents,r,prisma,postgres,opencv,java,graphql,cpp,cs,py,docker,jest,tailwind,nodejs,git,visualstudio,spring,supabase,replit,vscode,selenium,tensorflow,unity,kubernetes,figma,notion,mongodb,unreal,redis,raspberrypi,pytorch,postman,fastapi,obsidian,linux,kotlin,anaconda,kali,gcp,firebase,express,electron,dotnet,cloudflare,vercel,blender,bash,azure,aws,arduino,androidstudio,ableton" />
   </a>
 </p>
-<br />
-<br />
-
----
-### Tools 🛠
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,git,visualstudio,nextjs,spring,supabase,replit,styledcomponents,vscode,selenium,sublime,tensorflow,docker,unity,netlify,figma,notion,mongodb,unreal,redis,raspberrypi,pytorch,prometheus,powershell,postman,fastapi,eclipse,pnpm,obsidian,linux,kotlin,kali,jest,gcp,firebase,express,electron,dotnet,cloudflare" />
-  </a>
-</p>
-<br />
-<br />
 <!--
 ---
 ### Projects
@@ -42,12 +21,9 @@
 |:------:|:---------:|:----------------------:|
 | ![underpage](https://i.imgur.com/rAKhrkp.png) | ![geekdesigns](https://i.imgur.com/B3NLUGk.png) | ![stacion88](https://i.imgur.com/FJuvvaI.png) |
 | Un reproductor web de música electrónica underground. Cuenta con videos de youtube, música incrustada desde soundcloud y una radio activa las 24 horas del día conectada a través de una API.<br><br><img align="center" alt="React" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="center" alt="Redux" width="20px" height="20px" src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-png-transparent.png" /> <img align="center" alt="Tailwind CSS" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /> <img align="center" alt="Lodash" width="20px" height="20px" src="https://cdn.freebiesupply.com/logos/large/2x/lodash-logo-png-transparent.png" /> <img align="center" alt="Firebase" width="20px" height="20px" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" /><br> | E-commerce con catálogo de merchandise, autenticación y rol de usuarios, dashboard de administrador y CRUD para productos o servicios. Desarrollado siguiendo el marco de trabajo Scrum y la metodología RUP. Métodos de pago implementados: Paypal y/o tarjetas de crédito.<br><br> <img align="center" alt="Mongo DB" width="20px" height="20px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /><img align="center" alt="Next JS" width="20px" height="20px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" />  <img align="center" alt="Tailwind CSS" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /><br> | Una web app para streaming usando OBS o conexiones WHIP (Ps5). Radio and an endless music gallery. <br><br><img align="center" alt="Next JS" width="20px" height="20px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" /> <img align="center" alt="Tailwind CSS" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /> <img align="center" alt="TypeScript" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/500px-Typescript_logo_2020.svg.png" /> <img align="center" alt="Prisma" width="20px" height="20px" src="https://i.imgur.com/3mvV7KR.png" /> |
-| <a href="https://underpage-raversound.web.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-DC2626"></a> | <a href="https://github.com/Cisco-01/Design-Store-eCommerce"><img src="https://img.shields.io/badge/🔮 Repo-84CC16"></a> <a href="https://giovanni-designs.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-1C1917"></a> | <a href="https://estacion88.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-06202A"></a> |
+| <a href="https://underpage-raversound.web.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-DC2626"></a> | <a href="https://github.com/Cisco-01/Design-Store-eCommerce"><img src="https://img.shields.io/badge/🔮 Repo-84CC16"></a> <a href="https://giovanni-designs.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-1C1917"></a> | <a href="https://estacion88.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-06202A"></a> |--!>
 
-<br />
--->
----
-## Stats 📈
+### Stats 📈
 <center>
   <!--a href="https://github.com/Cisco-01/github-readme-activity-graph" target="_blank" rel="noopener noreferrer"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true&hide_title=true&area=true&area_color=FEFEFE" /></a-->
   <table>
