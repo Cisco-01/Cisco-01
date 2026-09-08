@@ -5,8 +5,14 @@
 
 ---
 ### Let's talk 👋🏻
+<div align="center">
+  
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:giovcasle@gmail.com)
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/giovcasle/)
+[<img src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/538831544773509160)
+
+
+</div>
 <br />
 ### Skills & Tools 🛠
 <p align="center">
@@ -24,7 +30,7 @@
 | <a href="https://underpage-raversound.web.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-DC2626"></a> | <a href="https://github.com/Cisco-01/Design-Store-eCommerce"><img src="https://img.shields.io/badge/🔮 Repo-84CC16"></a> <a href="https://giovanni-designs.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-1C1917"></a> | <a href="https://estacion88.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐 Website-06202A"></a> |--!>
 
 ### Stats 📈
-<center>
+<div align="center">
   <!--a href="https://github.com/Cisco-01/github-readme-activity-graph" target="_blank" rel="noopener noreferrer"><img alt="Cisco-01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Cisco-01&bg_color=0D1117&color=38D252&line=1F6FEA&point=38D252&hide_border=true&hide_title=true&area=true&area_color=FEFEFE" /></a-->
   <table>
   <tr>
@@ -43,7 +49,7 @@
     <img src="https://komarev.com/ghpvc/?username=Cisco-01&label=Profile%20views&style=flat&color=grey" alt="Cisco-01" />
   </a>
 
-</center>
+</div>
 <br />
 <!--
 ---
