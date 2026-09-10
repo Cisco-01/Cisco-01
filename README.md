@@ -1,6 +1,8 @@
 <b>Software developer by day, jack of all trades by night.</b>
 
-[![website](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white&labelColor=black)](https://giovcasle.vercel.app/)
+<a href="https://giovcasle.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white&labelColor=black" />
+  </a>
 <br />
 
 ---
