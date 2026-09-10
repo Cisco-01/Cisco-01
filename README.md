@@ -6,14 +6,15 @@
 ---
 ### Let's talk 👋🏻
 <div align="center">
-  
+
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:giovcasle@gmail.com)
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/giovcasle/)
 [<img src="https://skillicons.dev/icons?i=discord" />](https://discord.com/users/538831544773509160)
 
 
 </div>
-<br />
+
+
 ### Skills & Tools 🛠
 <p align="center">
   <a href="https://github.com/Cisco-01">
